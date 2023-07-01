@@ -1,0 +1,38 @@
+{
+    "axis_commands": {
+        "move_forward": {
+            "binding": "lefty",
+            "title": "Движение вперед"
+        },
+        "move_right": {
+            "binding": "rightx",
+            "title": "Движение вправо"
+        }
+    },
+    "button_commands": {
+        "set_max_speed": {
+            "binding": "x",
+            "title": "Ускорение"
+        },
+        "set_min_speed": {
+            "binding": "a",
+            "title": "Минимальная скорость"
+        },
+        "set_slow_speed": {
+            "binding": "b",
+            "title": "Медленное движение"
+        },
+        "set_zero_speed": {
+            "binding": "y",
+            "title": "Торможение"
+        },
+        "start_control": {
+            "binding": "start",
+            "title": "Включить управление"
+        },
+        "stop_control": {
+            "binding": "back",
+            "title": "Отключить управление"
+        }
+    }
+}

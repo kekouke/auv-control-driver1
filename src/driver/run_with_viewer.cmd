@@ -1,0 +1,1 @@
+start driver.exe --ipc_open_viewer
